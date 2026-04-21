@@ -1,1 +1,1 @@
-<img width="1440" height="2500" alt="image" src="https://github.com/user-attachments/assets/228b26c4-9bbc-4f5e-bd2f-5ada4b7d7a90" />
+<img src="[your-animation.gif](https://preview.redd.it/from-9-am-to-11-pm-how-an-illustrator-is-using-vibe-coding-v0-fizcf94x6qgg1.gif?width=497&auto=webp&s=999f70e22753dff228c7319bb5495b573eeea53d)" alt="Description of the animation">
