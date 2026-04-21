@@ -1,1 +1,1 @@
-<img src="https://preview.redd.it/from-9-am-to-11-pm-how-an-illustrator-is-using-vibe-coding-v0-fizcf94x6qgg1.gif?width=497&auto=webp&s=999f70e22753dff228c7319bb5495b573eeea53d" alt="Description of the animation">
+<img src="https://preview.redd.it/from-9-am-to-11-pm-how-an-illustrator-is-using-vibe-coding-v0-fizcf94x6qgg1.gif?width=497&auto=webp&s=999f70e22753dff228c7319bb5495b573eeea53d" alt="Description of the animation" width = 400 height = 400>
